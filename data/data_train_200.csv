@@ -1,0 +1,307 @@
+,environment_full,task,is_amb,question,all_variants,answer
+0,"kitchen towel, blender, porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass, bell pepper, cucumber, black pepper, tomato, sunflower oil, coconut oil, olive oil, black tea bags, green tea bags, fresh mozzarella package, cream cheese, cottage cheese, mozzarella sticks, cheddar cheese slices, vanilla yogurt cup, strawberry yogurt cup","Kitchen Robot, please blend a bell pepper, a cucumber, a tomato, and a tablespoon of oil in the blender to make a fresh vegetable juice.",True,Which type of oil should be used for blending the vegetables?,variants_clean,Olive oil.
+1,"kitchen towel, blender, porcelain cup, beer mug, ceramic mug, glass mug, plastic cup, paper cup, glass, bell pepper, cucumber, black pepper, tomato, sunflower oil, coconut oil, olive oil, black tea bags, green tea bags, fresh mozzarella package, cream cheese, cottage cheese, mozzarella sticks, cheddar cheese slices, vanilla yogurt cup, strawberry yogurt cup","Robot, please use the blender to mix a bell pepper, a cucumber, a tomato, and a tablespoon of olive oil to create a fresh vegetable juice.",False,Which type of oil should be used for blending the vegetables?,variants_clean,Olive oil.
+2,"a knife block, a garlic press, a frying pan, a grill pan, a saucepan, an energy bar, eggs, black tea bags, green tea bags, sea salt, table salt, canned olives","Kitchen Robot, please heat up some water and prepare a cup of black tea.",True,Can I use the microwave to heat up water for the tea?,"Sunflower oil
+Coconut oil
+Olive oil","No, please use the tea kettle on the stove instead."
+3,"a knife block, a garlic press, a frying pan, a grill pan, a saucepan, an energy bar, eggs, black tea bags, green tea bags, sea salt, table salt, canned olives","Robot, please heat up water in the tea kettle and make a cup of black tea.",False,Can I use the microwave to heat up water for the tea?,"Sunflower oil
+Coconut oil
+Olive oil","No, please use the tea kettle on the stove instead."
+4,"a garlic press, a corkscrew, sunflower oil, olive oil, coconut oil, a bell pepper, a carrot, a tomato, uncut white bread, sliced whole wheat bread, a stove, a microwave","Kitchen Robot, please chop the bell pepper, carrot, and tomato using the garlic press as a chopping tool, and then sauté the vegetables in a pan with a tablespoon of oil over medium heat for 5 minutes. Serve the vegetables on a slice of whole wheat bread.",True,Which type of oil should I add to the pan?,"Yes, you can use the microwave to heat up water for the tea.
+No, you cannot use the microwave to heat up water for the tea.",Olive oil.
+5,"a garlic press, a corkscrew, sunflower oil, olive oil, coconut oil, a bell pepper, a carrot, a tomato, uncut white bread, sliced whole wheat bread, a stove, a microwave","Hey kitchen assistant, please dice the bell pepper, carrot, and tomato using the garlic press as a cutter, and then cook the veggies in a pan with a tablespoon of olive oil over medium heat for 5 minutes. Serve the sautéed vegetables on a piece of whole grain bread.",False,Which type of oil should I add to the pan?,"Yes, you can use the microwave to heat up water for the tea.
+No, you cannot use the microwave to heat up water for the tea.",Olive oil.
+6,"a large mixing bowl, a small mixing bowl, a frying pan, a grill pan, a saucepan, oven mitts, a cabbage, a cucumber, a carrot, muesli, cornflakes, tomato paste, mustard, ketchup","Kitchen Robot, please chop the cabbage, cucumber, and carrot into small pieces and place them in a mixing bowl.",True,Where should the chopped vegetables be placed after chopping?,"Sunflower oil
+Olive oil
+Coconut oil",In a large mixing bowl on the kitchen table.
+7,"a large mixing bowl, a small mixing bowl, a frying pan, a grill pan, a saucepan, oven mitts, a cabbage, a cucumber, a carrot, muesli, cornflakes, tomato paste, mustard, ketchup","Dear kitchen assistant, could you kindly dice the cabbage, cucumber, and carrot into small pieces and transfer them to a spacious mixing bowl on the kitchen table? Thank you!",False,Where should the chopped vegetables be placed after chopping?,"Sunflower oil
+Olive oil
+Coconut oil",In a large mixing bowl on the kitchen table.
+8,"a chair, a ladle, a spatula, coconut oil, sunflower oil, a bell pepper, an onion, a tomato, eggs","Kitchen Robot, please chop the onion and bell pepper into small pieces.",True,Which tools should the robot use to chop the vegetables?,"Place the chopped vegetables in a mixing bowl
+Put the chopped vegetables in a mixing bowl
+Transfer the chopped vegetables to a mixing bowl",The robot should use a knife and cutting board.
+9,"a chair, a ladle, a spatula, coconut oil, sunflower oil, a bell pepper, an onion, a tomato, eggs","Robot, please dice the onion and bell pepper into small pieces using a blade and chopping surface.",False,Which tools should the robot use to chop the vegetables?,"Place the chopped vegetables in a mixing bowl
+Put the chopped vegetables in a mixing bowl
+Transfer the chopped vegetables to a mixing bowl",The robot should use a knife and cutting board.
+10,"chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a metal bowl, a plastic bowl, a ceramic bowl, eggs, table salt, granulated sugar, muesli, cornflakes, canned olives","Kitchen Robot, please crack an egg into a bowl and place it on the table.",True,Which type of bowl should the egg be cracked into?,"Knife
+Food processor
+Blender",The ceramic bowl.
+11,"chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a metal bowl, a plastic bowl, a ceramic bowl, eggs, table salt, granulated sugar, muesli, cornflakes, canned olives","Robot, crack an egg into the ceramic bowl and place it on the kitchen table.",False,Which type of bowl should the egg be cracked into?,"Knife
+Food processor
+Blender",The ceramic bowl.
+12,"a plastic food storage container, a glass food storage container, a blender, a bottle opener, coconut oil, sunflower oil, chicken eggs, goose eggs, an energy bar, a glass milk bottle, an oat milk bottle","Kitchen Robot, please crack two eggs into the blender.",True,Which type of eggs should the robot use for cracking into the blender?,"Metal bowl
+Plastic bowl
+Ceramic bowl",The chicken eggs.
+13,"a plastic food storage container, a glass food storage container, a blender, a bottle opener, coconut oil, sunflower oil, chicken eggs, goose eggs, an energy bar, a glass milk bottle, an oat milk bottle","Robot, please crack a pair of chicken eggs into the blender.",False,Which type of eggs should the robot use for cracking into the blender?,"Metal bowl
+Plastic bowl
+Ceramic bowl",The chicken eggs.
+14,"a bread knife, a paring knife, a butter knife, a cutting board, a potholder, a whisk, coconut oil, sunflower oil, cheddar cheese slices, mozzarella sticks, a fresh mozzarella package, cottage cheese","Kitchen Robot, please cut the cheddar cheese slices into small cubes using the knife.",True,Which tool should be used to cut the cheddar cheese slices into small cubes?,"Chicken eggs
+Goose eggs",The paring knife.
+15,"a bread knife, a paring knife, a butter knife, a cutting board, a potholder, a whisk, coconut oil, sunflower oil, cheddar cheese slices, mozzarella sticks, a fresh mozzarella package, cottage cheese","Robot, please use the paring knife and cutting board to dice the cheddar cheese slices into small cubes.",False,Which tool should be used to cut the cheddar cheese slices into small cubes?,"Chicken eggs
+Goose eggs",The paring knife.
+16,"a dish rack, a plastic food storage container, a glass food storage container, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, toasted bread, uncut white bread, sliced whole wheat bread, a glass milk bottle, an oat milk bottle, muesli, cornflakes, potato chips, rice chips","Kitchen Robot, please fill one food storage container with cornflakes and the other food storage container with muesli, then place both containers on the kitchen table.",True,Should I use plastic food storage containers or glass storage containers?,"Bread knife
+Paring knife
+Butter knife",Plastic food storage container
+17,"a dish rack, a plastic food storage container, a glass food storage container, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, toasted bread, uncut white bread, sliced whole wheat bread, a glass milk bottle, an oat milk bottle, muesli, cornflakes, potato chips, rice chips","Robot, please fill the plastic container with cornflakes and the glass container with muesli, then place them on the table in the kitchen.",False,Should I use plastic food storage containers or glass storage containers?,"Bread knife
+Paring knife
+Butter knife",Plastic food storage container
+18,"a soup pot, a stockpot, oven mitts, table salt, granulated sugar, sea salt, black tea bags, green tea bags, honey, a bottle of white wine, a bottle of red wine","Kitchen Robot, please fill the pot with water and place it on the stove to make a soup.",True,Which pot should be filled with water and placed on the stove?,"Plastic food storage containers
+Glass food storage containers",The soup pot.
+19,"a soup pot, a stockpot, oven mitts, table salt, granulated sugar, sea salt, black tea bags, green tea bags, honey, a bottle of white wine, a bottle of red wine","Robot, please fill the pot with water and place it on the stove in the kitchen to make a soup.",False,Which pot should be filled with water and placed on the stove?,"Plastic food storage containers
+Glass food storage containers",The soup pot.
+20,"a soup pot, a stockpot, a blender, a corkscrew, an energy bar, granulated sugar, sea salt, table salt","Kitchen Robot, please fill the pot with water from the sink and place it on the table.",True,Which pot should be filled with water from the sink and placed on the table?,"The soup pot
+The stockpot",The stockpot.
+21,"a soup pot, a stockpot, a blender, a corkscrew, an energy bar, granulated sugar, sea salt, table salt","Robot, please fill the stockpot with water from the sink and place it on the table.",False,Which pot should be filled with water from the sink and placed on the table?,"The soup pot
+The stockpot",The stockpot.
+22,"a grater, a blender, an energy bar, ketchup, mayonnaise, mustard, tomato paste, a cucumber, a tomato, an onion, a cabbage, a carrot, eggs","Robot, please prepare a vegetable salad with grated ingredients and a creamy dressing. Please grate some vegetables using a grater, then chop the onion and tomato into small pieces using a knife and cutting board. Place all the vegetables into a large mixing bowl and add two tablespoons of mayonnaise. Mix well to combine.",True,What specific vegetables should be grated for the salad?,"Fill the soup pot with water from the sink and place it on the table.
+Fill the stockpot with water from the sink and place it on the table.",Carrot and cabbage.
+23,"a grater, a blender, an energy bar, ketchup, mayonnaise, mustard, tomato paste, a cucumber, a tomato, an onion, a cabbage, a carrot, eggs","knife block, garlic press, frying pan, grill pan, saucepan, energy bar, eggs, black tea bags, green tea bags, sea salt, table salt, canned olives",False,What specific vegetables should be grated for the salad?,"Fill the soup pot with water from the sink and place it on the table.
+Fill the stockpot with water from the sink and place it on the table.",Carrot and cabbage.
+24,"a plastic food storage container, a glass food storage container, a grater, a black pepper, a cucumber, a potato, a carrot, a tomato, a garlic, an onion, a cabbage, an energy bar","Kitchen robot, please grate the carrot and the cucumber into the plastic food storage container, then add a grated clove of garlic, a pinch of black pepper, and a diced tomato. Mix well and store in the fridge for later use as a healthy salad.",True,Should I peel the carrot before grating it?,"Cucumber
+Carrot
+Cabbage","Yes, please peel the carrot before grating it."
+25,"a plastic food storage container, a glass food storage container, a grater, a black pepper, a cucumber, a potato, a carrot, a tomato, a garlic, an onion, a cabbage, an energy bar","Dear kitchen assistant, could you please shred the carrot and cucumber into the plastic food container, then add in some grated garlic, a sprinkle of black pepper, and diced tomato. Mix everything together thoroughly and store it in the fridge for a nutritious salad later on. Thank you!",False,Should I peel the carrot before grating it?,"Cucumber
+Carrot
+Cabbage","Yes, please peel the carrot before grating it."
+26,"a grater, a spatula, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a carrot, an onion, a cabbage, a potato, a bell pepper, a cucumber, a garlic, a tomato, canned olives, an energy bar, table salt, granulated sugar, black tea bags, green tea bags","Kitchen Robot, please grate the carrot and the potato and mix them together in a bowl. Add a pinch of salt and a tablespoon of olive oil, and mix well. Use the spatula to form small patties and cook them in a pan over medium heat until they are golden brown and crispy. Serve the patties in a mug with a dollop of sour cream and a sprinkle of chopped green onions on top.",True,Where should you serve the patties after cooking them? ,"Yes, peel the carrot before grating it.
+No, do not peel the carrot before grating it.",In a ceramic mug.
+27,"a grater, a spatula, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a carrot, an onion, a cabbage, a potato, a bell pepper, a cucumber, a garlic, a tomato, canned olives, an energy bar, table salt, granulated sugar, black tea bags, green tea bags","Dear kitchen assistant, please grate the carrot and the potato and combine them in a bowl. Add a pinch of salt and a tablespoon of olive oil, then mix thoroughly. Shape the mixture into small patties using the spatula and cook them in a pan over medium heat until they are golden brown and crispy. Serve the patties in a ceramic cup with a dollop of sour cream and some chopped green onions on top. Thank you!",False,Where should you serve the patties after cooking them? ,"Yes, peel the carrot before grating it.
+No, do not peel the carrot before grating it.",In a ceramic mug.
+28,"a frying pan, a grill pan, a saucepan, a knife block, an energy bar, a fresh mozzarella package, mozzarella sticks, olive oil, coconut oil, sunflower oil, uncut white bread, sliced whole wheat bread, toasted bread, a greek yogurt cup, a strawberry yogurt cup","Kitchen Robot, please heat up a frying pan on medium heat and add a tablespoon of oil. Once the oil is hot, add a mozzarella stick to the pan and cook it for 1-2 minutes on each side, or until it is golden brown and crispy. Serve the mozzarella stick on a plate.",True,Which type of oil should be used for cooking the mozzarella stick?,"On a plate
+In a bowl
+On a cutting board
+In a skillet",Olive oil.
+29,"a frying pan, a grill pan, a saucepan, a knife block, an energy bar, a fresh mozzarella package, mozzarella sticks, olive oil, coconut oil, sunflower oil, uncut white bread, sliced whole wheat bread, toasted bread, a greek yogurt cup, a strawberry yogurt cup","Robot, please heat up the frying pan on medium heat and add a tablespoon of olive oil. Once the oil is hot, place a mozzarella stick in the pan and cook it for 1-2 minutes on each side, or until it is golden brown and crispy. Serve the cooked mozzarella stick on a plate.",False,Which type of oil should be used for cooking the mozzarella stick?,"On a plate
+In a bowl
+On a cutting board
+In a skillet",Olive oil.
+30,"a toaster, a soup pot, a stockpot, oven mitts, a toaster, mixed fruit jam, a dark chocolate tablet, a milk chocolate tablet, an almond milk chocolate tablet, an energy bar, sliced whole wheat bread, uncut white bread, toasted bread, sunflower oil, olive oil","Kitchen Robot, please toast the bread until it is golden brown on both sides, then take it out and spread some mixed fruit jam on top.",True,Which kitchen appliance should be used for toasting?,"Olive oil
+Coconut oil
+Sunflower oil",A toaster.
+31,"a toaster, a soup pot, a stockpot, oven mitts, a toaster, mixed fruit jam, a dark chocolate tablet, a milk chocolate tablet, an almond milk chocolate tablet, an energy bar, sliced whole wheat bread, uncut white bread, toasted bread, sunflower oil, olive oil","Hey kitchen assistant, could you please toast uncut white bread? Toast the bread until it's golden brown on both sides, then take it out and spread some mixed fruit jam on top. Thank you!",False,Which kitchen appliance should be used for toasting?,"Olive oil
+Coconut oil
+Sunflower oil",A toaster.
+32,"a bottle opener, a clean sponge, a dirty sponge, a dish soap, jalapeno chips, rice chips, sunflower oil, olive oil, muesli, cornflakes, mozzarella sticks, cottage cheese","Kitchen Robot, please heat up some water and while it's heating, take the clean sponge and dish soap, and clean the kitchen table using them.",True,How should I use dish soap?,"Toaster
+Oven",You should put dish soap on the sponge.
+33,"a bottle opener, a clean sponge, a dirty sponge, a dish soap, jalapeno chips, rice chips, sunflower oil, olive oil, muesli, cornflakes, mozzarella sticks, cottage cheese","Robot, please heat up water in the tea kettle and while it's heating, grab the fresh sponge, add some dish soap to it, and wipe down the kitchen table.",False,How should I use dish soap?,"Toaster
+Oven",You should put dish soap on the sponge.
+34,"a toaster, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a plastic food storage container, a glass food storage container, eggs, cheddar cheese slices, cream cheese, cottage cheese, mozzarella sticks, a fresh mozzarella package, toasted bread, uncut white bread, sliced whole wheat bread, canned olives","Kitchen Robot, please make a cheese and olive toast. First, take two slices of the bread, place a slice of cheddar cheese on one of them, add a few canned olives on top, then place the second slice of bread on top, and finally toast it in the toaster until the cheese is melted.",True,Which type of bread should be used for making the cheese and olive toast?,"Apply the soap directly on the sponge
+Dilute the soap in water before using it
+Use a small amount of soap on the sponge",Sliced whole wheat bread.
+35,"a toaster, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a plastic food storage container, a glass food storage container, eggs, cheddar cheese slices, cream cheese, cottage cheese, mozzarella sticks, a fresh mozzarella package, toasted bread, uncut white bread, sliced whole wheat bread, canned olives","Robot, please prepare a cheese and olive toast. Take two slices of whole wheat bread, place cheddar cheese on one slice, add canned olives on top, then cover with the second slice of bread. Toast in the toaster until the cheese is melted. Thank you!",False,Which type of bread should be used for making the cheese and olive toast?,"Apply the soap directly on the sponge
+Dilute the soap in water before using it
+Use a small amount of soap on the sponge",Sliced whole wheat bread.
+36,"a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a coffee machine, a milk chocolate tablet, a dark chocolate tablet, mixed fruit jam","Kitchen Robot, please make a hot chocolate by using the coffee machine to heat up milk, adding a few pieces of milk chocolate tablet, and stirring until the chocolate is melted. Then pour it into a cup.",True,Which cup should I use to pour the hot chocolate into?,"Toasted bread
+Uncut white bread
+Sliced whole wheat bread",Use the ceramic mug.
+37,"a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a coffee machine, a milk chocolate tablet, a dark chocolate tablet, mixed fruit jam","Dear kitchen assistant, could you please prepare a hot chocolate by heating up some milk using the coffee machine, adding a few chunks of milk chocolate tablet, and stirring until the chocolate is melted? Finally, pour the hot chocolate into a ceramic mug. Thank you!",False,Which cup should I use to pour the hot chocolate into?,"Toasted bread
+Uncut white bread
+Sliced whole wheat bread",Use the ceramic mug.
+38,"a chair, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, an almond milk chocolate tablet, a dark chocolate tablet, a milk chocolate tablet, mustard, tomato paste, cottage cheese, mozzarella sticks, cheddar cheese slices, cream cheese, a Coca-Cola can, bottled water, a Sprite bottle, an orange soda, bottled iced tea, a Red Bull can, honey","Kitchen Robot, please melt the dark chocolate tablet in the microwave and use it as a dip.",True,Which food item should I use as a dip for the melted dark chocolate?,"Porcelain cup
+Beer mug
+Ceramic mug
+Glass mug
+Plastic cup
+Paper cup",Use the mozzarella sticks.
+39,"a chair, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, an almond milk chocolate tablet, a dark chocolate tablet, a milk chocolate tablet, mustard, tomato paste, cottage cheese, mozzarella sticks, cheddar cheese slices, cream cheese, a Coca-Cola can, bottled water, a Sprite bottle, an orange soda, bottled iced tea, a Red Bull can, honey","Hey kitchen assistant, could you heat up the dark chocolate bar in the microwave and then use it as a dip for the mozzarella sticks?",False,Which food item should I use as a dip for the melted dark chocolate?,"Porcelain cup
+Beer mug
+Ceramic mug
+Glass mug
+Plastic cup
+Paper cup",Use the mozzarella sticks.
+40,"a knife block, a ladle, a fresh mozzarella package, mozzarella sticks, cheddar cheese slices, jalapeno chips, rice chips, potato chips","Kitchen Robot, please open the package of cheese and cut cheese into slices using a knife.",True,Which type of cheese should be used for slicing?,"Almond milk chocolate tablet
+Mozzarella sticks
+Cheddar cheese slices",Fresh mozzarella.
+41,"a knife block, a ladle, a fresh mozzarella package, mozzarella sticks, cheddar cheese slices, jalapeno chips, rice chips, potato chips","Robot, please open the fresh mozzarella package and slice it using a knife from the knife block.",False,Which type of cheese should be used for slicing?,"Almond milk chocolate tablet
+Mozzarella sticks
+Cheddar cheese slices",Fresh mozzarella.
+42,"a bread knife, a paring knife, a butter knife, a cutting board, a plastic food storage container, a glass food storage container, a strawberry yogurt cup, a vanilla yogurt cup, a bottle of white wine, a bottle of red wine, granulated sugar, sea salt, table salt, ketchup, tomato paste, mixed fruit jam","Kitchen Robot, please open two yogurt cups.",True,Which specific yogurt cups should I open?,"Fresh mozzarella
+Cheddar cheese slices",Open the strawberry and vanilla yogurt cups.
+43,"a bread knife, a paring knife, a butter knife, a cutting board, a plastic food storage container, a glass food storage container, a strawberry yogurt cup, a vanilla yogurt cup, a bottle of white wine, a bottle of red wine, granulated sugar, sea salt, table salt, ketchup, tomato paste, mixed fruit jam","Robot, please open the containers of strawberry and vanilla yogurt.",False,Which specific yogurt cups should I open?,"Fresh mozzarella
+Cheddar cheese slices",Open the strawberry and vanilla yogurt cups.
+44,"a bottle opener, a blender, a plastic food storage container, a glass food storage container, an onion, a potato, a cucumber, a black pepper, eggs, a bottle of white wine, a bottle of red wine","Kitchen Robot, please blend the onion and potato with two eggs, black pepper, and place them in the microwave until smooth.",True,Should I peel and chop the onion and potato before blending them?,"Open the strawberry yogurt cup
+Open the vanilla yogurt cup","Yes, you should peel and chop the onion and potato before blending them."
+45,"a bottle opener, a blender, a plastic food storage container, a glass food storage container, an onion, a potato, a cucumber, a black pepper, eggs, a bottle of white wine, a bottle of red wine","Dear kitchen assistant, please peel and dice the onion and potato, then transfer them to the blender along with two eggs and a pinch of black pepper. Blend until the mixture is smooth. Thank you!",False,Should I peel and chop the onion and potato before blending them?,"Open the strawberry yogurt cup
+Open the vanilla yogurt cup","Yes, you should peel and chop the onion and potato before blending them."
+46,"a whisk, a clean sponge, a dirty sponge, a dish soap, a glass milk bottle, an oat milk bottle, muesli, cornflakes, potato chips, rice chips, jalapeno chips","Kitchen Robot, please prepare a bowl of cereal with milk.",True,Which type of cereal should I use for the bowl?,"Yes, peel and chop the onion and potato before blending
+No, do not peel and chop the onion and potato before blending",Muesli.
+47,"a whisk, a clean sponge, a dirty sponge, a dish soap, a glass milk bottle, an oat milk bottle, muesli, cornflakes, potato chips, rice chips, jalapeno chips","Robot, please prepare a bowl of cereal with oat milk.",False,Which type of cereal should I use for the bowl?,"Yes, peel and chop the onion and potato before blending
+No, do not peel and chop the onion and potato before blending",Muesli.
+48,"a knife block, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a whisk, muesli, cornflakes, a bottle of white wine, a bottle of red wine, an orange soda, a Sprite bottle, a Pepsi can, a beer can, bottled water, bottled iced tea, a Coca-Cola can, a Red Bull can","Kitchen Robot, please pour a glass of a drink and add a slice of lemon to it.",True,Which drink would you like?,"Muesli
+Cornflakes
+Potato chips
+Rice chips
+Jalapeno chips",Bottled iced tea.
+49,"a knife block, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a whisk, muesli, cornflakes, a bottle of white wine, a bottle of red wine, an orange soda, a Sprite bottle, a Pepsi can, a beer can, bottled water, bottled iced tea, a Coca-Cola can, a Red Bull can","Robot, please pour some bottled iced tea into a glass and garnish it with a lemon slice.",False,Which drink would you like?,"Muesli
+Cornflakes
+Potato chips
+Rice chips
+Jalapeno chips",Bottled iced tea.
+50,"oven mitts, a bottle opener, a glass milk bottle, an oat milk bottle, potato chips, jalapeno chips, a bottle of white wine, a bottle of red wine, honey","Kitchen Robot, please pour a glass of milk from the milk bottle into a glass and place it on the kitchen table.",True,"Which type of milk should I pour into the glass, cow's milk or oat milk?","White wine
+Red wine
+Orange soda
+Sprite
+Pepsi
+Beer
+Bottled water
+Bottled iced tea
+Coca-Cola
+Red Bull",Oat milk.
+51,"oven mitts, a bottle opener, a glass milk bottle, an oat milk bottle, potato chips, jalapeno chips, a bottle of white wine, a bottle of red wine, honey","Robot, please pour some oat milk from the bottle into a glass and place it on the table in the kitchen.",False,"Which type of milk should I pour into the glass, cow's milk or oat milk?","White wine
+Red wine
+Orange soda
+Sprite
+Pepsi
+Beer
+Bottled water
+Bottled iced tea
+Coca-Cola
+Red Bull",Oat milk.
+52,"a coffee machine, a clean sponge, a dirty sponge, a dish soap, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a glass milk bottle, an oat milk bottle, olive oil, coconut oil, sunflower oil, an energy bar, mixed fruit jam","Kitchen Robot, please pour a glass of oat milk into the glass milk bottle and place it on the kitchen table next to a bread plate with a spoonful of mixed fruit jam on it.",True,Which type of plate should the oat milk be placed next to on the kitchen table?,"Cow's milk
+Oat milk",The ceramic bread plate.
+53,"a coffee machine, a clean sponge, a dirty sponge, a dish soap, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a glass milk bottle, an oat milk bottle, olive oil, coconut oil, sunflower oil, an energy bar, mixed fruit jam","Robot, please fill the glass milk bottle with oat milk and place it on the kitchen table next to the ceramic bread plate topped with a dollop of mixed fruit jam.",False,Which type of plate should the oat milk be placed next to on the kitchen table?,"Cow's milk
+Oat milk",The ceramic bread plate.
+54,"a citrus juicer, a potholder, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a glass bottle, a plastic bottle","Kitchen Robot, please pour the bottled water into the empty glass bottle until it's half full, then place the bottle in the fridge.",True,Which bottle should be filled with water and placed in the fridge?,"Bread plate
+Dinner plate
+Salad plate",The glass bottle.
+55,"a citrus juicer, a potholder, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a glass bottle, a plastic bottle","Robot, please transfer half of the bottled water into the glass bottle and then store it in the fridge.",False,Which bottle should be filled with water and placed in the fridge?,"Bread plate
+Dinner plate
+Salad plate",The glass bottle.
+56,"a dish rack, a spatula, a glass milk bottle, an oat milk bottle, a vanilla yogurt cup, a greek yogurt cup, a strawberry yogurt cup","Kitchen Robot, please combine the contents of the vanilla yogurt cup, Greek yogurt cup, and strawberry yogurt cup together.",True,What should I use for combining yogurts together?,"The glass bottle
+The plastic bottle",Use the blender.
+57,"a dish rack, a spatula, a glass milk bottle, an oat milk bottle, a vanilla yogurt cup, a greek yogurt cup, a strawberry yogurt cup","Robot, blend the vanilla, Greek, and strawberry yogurt together. ",False,What should I use for combining yogurts together?,"The glass bottle
+The plastic bottle",Use the blender.
+58,"a coffee machine, a chair, an orange soda, bottled iced tea, toasted bread, sliced whole wheat bread, uncut white bread, honey, a vanilla yogurt cup, a greek yogurt cup, a strawberry yogurt cup, granulated sugar, sea salt, table salt","Kitchen Robot, please prepare a breakfast plate with two slices of toasted whole wheat bread, a spread of honey, and a side of yogurt.",True,Which type of yogurt should be used for the side dish on the breakfast plate?,"Blender
+Mixing bowl
+Food processor",Greek yogurt.
+59,"a coffee machine, a chair, an orange soda, bottled iced tea, toasted bread, sliced whole wheat bread, uncut white bread, honey, a vanilla yogurt cup, a greek yogurt cup, a strawberry yogurt cup, granulated sugar, sea salt, table salt","Robot, please make a breakfast plate with two pieces of toasted whole wheat bread, a drizzle of honey, and a serving of Greek yogurt.",False,Which type of yogurt should be used for the side dish on the breakfast plate?,"Blender
+Mixing bowl
+Food processor",Greek yogurt.
+60,"a soup pot, a stockpot, a mixer, a toaster, table salt, granulated sugar, mixed fruit jam, a tea kettle","Kitchen Robot, please prepare a pot of hot water using the soup pot and the tea kettle for making tea or instant soup.",True,When should the pots of water be taken off the stove?,"Vanilla yogurt
+Greek yogurt
+Strawberry yogurt",Once both pots of water are boiling
+61,"a soup pot, a stockpot, a mixer, a toaster, table salt, granulated sugar, mixed fruit jam, a tea kettle","Robot, please use the soup pot and tea kettle to prepare a pot of hot water for making tea or instant soup in the kitchen.",False,When should the pots of water be taken off the stove?,"Vanilla yogurt
+Greek yogurt
+Strawberry yogurt",Once both pots of water are boiling
+62,"a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, honey, olive oil, coconut oil, sunflower oil, black tea bags, green tea bags, a greek yogurt cup, a vanilla yogurt cup, a strawberry yogurt cup, a bottle of white wine, a bottle of red wine, a wine glass, a water glass","Kitchen Robot, please set the table for dinner with one ceramic dinner plate, one ceramic bread plate, one ceramic salad plate, one stainless steel dinner fork, one stainless steel salad fork, one stainless steel dinner knife, one glass of red wine, and one glass of water.",True,Which type of glass should be used for the red wine?,"When the water starts to boil
+When the water reaches a certain temperature
+After a specific amount of time has passed",The glass should be a wine glass.
+63,"a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, honey, olive oil, coconut oil, sunflower oil, black tea bags, green tea bags, a greek yogurt cup, a vanilla yogurt cup, a strawberry yogurt cup, a bottle of white wine, a bottle of red wine, a wine glass, a water glass","Dear kitchen assistant, please arrange the dinner table with a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a glass of red wine, and a glass of water. Thank you!",False,Which type of glass should be used for the red wine?,"When the water starts to boil
+When the water reaches a certain temperature
+After a specific amount of time has passed",The glass should be a wine glass.
+64,"a mixer, a bottle opener, a clean sponge, a dirty sponge, a dish soap, mozzarella sticks, a fresh mozzarella package, cheddar cheese slices, cottage cheese, cream cheese, a potato, a black pepper, an onion, a garlic, a bell pepper, sea salt, granulated sugar, table salt, a bottle of white wine, a bottle of red wine","Kitchen Robot, please shred the cheddar cheese slices and combine them with the cream cheese, 1/4 cup of cottage cheese, 1 minced garlic clove, 1/4 teaspoon of pepper, and 1/4 teaspoon of sea salt in the mixer. Then, stuff the mixture into the pepper and bake it in the oven at 375 degrees for 25 minutes.",True,Which type of bell pepper should be used for this recipe?,"Glass dinner plate
+Glass bread plate
+Glass salad plate",The black bell pepper.
+65,"a mixer, a bottle opener, a clean sponge, a dirty sponge, a dish soap, mozzarella sticks, a fresh mozzarella package, cheddar cheese slices, cottage cheese, cream cheese, a potato, a black pepper, an onion, a garlic, a bell pepper, sea salt, granulated sugar, table salt, a bottle of white wine, a bottle of red wine","Robot, please grate the cheddar cheese slices and mix them with the cream cheese, 1/4 cup of cottage cheese, 1 minced garlic clove, 1/4 teaspoon of pepper, and 1/4 teaspoon of sea salt in the blender. After that, fill the mixture into the pepper and bake it in the oven at 375 degrees for 25 minutes.",False,Which type of bell pepper should be used for this recipe?,"Glass dinner plate
+Glass bread plate
+Glass salad plate",The black bell pepper.
+66,"a bread knife, a paring knife, a butter knife, a cutting board, paper towels, mustard, ketchup, tomato paste, table salt, granulated sugar, sea salt","Kitchen Robot, please slice a tomato using the knife and cutting board, then arrange the slices on a plate and sprinkle some sea salt on top.",True,Which knife should be used to slice the tomato?,"Red bell pepper
+Green bell pepper
+Yellow bell pepper",The paring knife.
+67,"a bread knife, a paring knife, a butter knife, a cutting board, paper towels, mustard, ketchup, tomato paste, table salt, granulated sugar, sea salt","Robot, please use the small knife to cut a tomato on the wooden board, then place the slices nicely on a dish and add some sea salt on top.",False,Which knife should be used to slice the tomato?,"Red bell pepper
+Green bell pepper
+Yellow bell pepper",The paring knife.
+68,"a mixer, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a beer can, bottled iced tea, an orange soda, a Red Bull can, bottled water, a Coca-Cola can, a Pepsi can, a Sprite bottle, toasted bread, sliced whole wheat bread, uncut white bread, an energy bar, a glass milk bottle, an oat milk bottle, an apple, an orange, a lemon, an avocado, a banana","Kitchen Robot, please slice the avocado and serve it on the ceramic salad plate, then place it here.",True,Where should I place the ceramic salad plate after slicing the avocado?,"Bread knife
+Paring knife
+Butter knife",Place it on the kitchen table.
+69,"a mixer, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a beer can, bottled iced tea, an orange soda, a Red Bull can, bottled water, a Coca-Cola can, a Pepsi can, a Sprite bottle, toasted bread, sliced whole wheat bread, uncut white bread, an energy bar, a glass milk bottle, an oat milk bottle, an apple, an orange, a lemon, an avocado, a banana","Robot, please cut the avocado and place it on the ceramic salad plate, then put it on the kitchen table.",False,Where should I place the ceramic salad plate after slicing the avocado?,"Bread knife
+Paring knife
+Butter knife",Place it on the kitchen table.
+70,"a vegetable peeler, a potato masher, a bread knife, a paring knife, a butter knife, a cutting board, tomato paste, mustard, mayonnaise, grapes, a peach, an avocado, an orange, an apple, canned olives, a bottle of white wine, a bottle of red wine, toasted bread, sliced whole wheat bread, uncut white bread","Kitchen Robot, please slice the avocado in half, remove the pit, and spread the avocado onto two pieces of toasted bread.",True,Which knife should be used to spread the avocado?,"On the kitchen table
+In the fridge
+In the oven
+In the dishwasher",Use the butter knife.
+71,"a vegetable peeler, a potato masher, a bread knife, a paring knife, a butter knife, a cutting board, tomato paste, mustard, mayonnaise, grapes, a peach, an avocado, an orange, an apple, canned olives, a bottle of white wine, a bottle of red wine, toasted bread, sliced whole wheat bread, uncut white bread","Robot, please cut the avocado in half, take out the pit, and spread it on two pieces of toasted bread using the butter knife.",False,Which knife should be used to spread the avocado?,"On the kitchen table
+In the fridge
+In the oven
+In the dishwasher",Use the butter knife.
+72,"a bottle opener, a frying pan, a grill pan, a saucepan, a dish rack, a vanilla yogurt cup, a greek yogurt cup, a garlic, a cucumber, a tomato, a glass milk bottle, an oat milk bottle, uncut white bread, toasted bread, sliced whole wheat bread, a Red Bull can, a Coca-Cola can, a Pepsi can, a beer can, bottled iced tea, bottled water","Kitchen Robot, please slice the cucumber and tomato into thin pieces and place them on a ceramic salad plate.",True,Should the robot wash the cucumber and tomato before slicing them?,"Butter knife
+Paring knife
+Bread knife","Yes, please wash the cucumber and tomato before slicing them."
+73,"a bottle opener, a frying pan, a grill pan, a saucepan, a dish rack, a vanilla yogurt cup, a greek yogurt cup, a garlic, a cucumber, a tomato, a glass milk bottle, an oat milk bottle, uncut white bread, toasted bread, sliced whole wheat bread, a Red Bull can, a Coca-Cola can, a Pepsi can, a beer can, bottled iced tea, bottled water","Robot, please wash cut the cucumber and tomato into thin slices and arrange them on a salad plate.",False,Should the robot wash the cucumber and tomato before slicing them?,"Butter knife
+Paring knife
+Bread knife","Yes, please wash the cucumber and tomato before slicing them."
+74,"a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a clean sponge, a dirty sponge, a dish soap, mayonnaise, tomato paste, ketchup, mustard, mozzarella sticks, cream cheese, an almond milk chocolate tablet, a milk chocolate tablet, a banana, a peach, an orange, an apple, grapes, table salt, granulated sugar, sea salt","Kitchen Robot, please take a banana and a peach from the kitchen and make a fruit smoothie using the blender. Add a cup of almond milk, a tablespoon of honey, and a handful of ice cubes to the blender. Blend the mixture until smooth and pour it into a mug. Serve the smoothie with a slice of orange on the rim of the glass.",True,Which type of mug should be used to serve the smoothie?,"Yes, wash the cucumber and tomato before slicing
+No, do not wash the cucumber and tomato before slicing",A glass mug.
+75,"a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a clean sponge, a dirty sponge, a dish soap, mayonnaise, tomato paste, ketchup, mustard, mozzarella sticks, cream cheese, an almond milk chocolate tablet, a milk chocolate tablet, a banana, a peach, an orange, an apple, grapes, table salt, granulated sugar, sea salt","Robot, please grab a banana and a peach from the kitchen and use the blender to make a fruity drink. Add almond milk, honey, and ice to the blender. Blend until smooth and pour into a glass mug. Serve with an orange slice on the side. Thank you!",False,Which type of mug should be used to serve the smoothie?,"Yes, wash the cucumber and tomato before slicing
+No, do not wash the cucumber and tomato before slicing",A glass mug.
+76,"a vegetable peeler, a potato masher, a bottle opener, a greek yogurt cup, a vanilla yogurt cup, a beer can, an orange soda, a Coca-Cola can, a Sprite bottle, a Pepsi can, bottled water, bottled iced tea, a Red Bull can, rice chips, jalapeno chips, potato chips, mixed fruit jam, cottage cheese, cream cheese","Kitchen Robot, please find a potato and use a specialized item to peel it.",True,What item should I use to peel a potato?,"Porcelain cup
+Beer mug
+Ceramic mug
+Glass mug
+Plastic cup
+Paper cup
+Glass",A vegetable peeler.
+77,"a vegetable peeler, a potato masher, a bottle opener, a greek yogurt cup, a vanilla yogurt cup, a beer can, an orange soda, a Coca-Cola can, a Sprite bottle, a Pepsi can, bottled water, bottled iced tea, a Red Bull can, rice chips, jalapeno chips, potato chips, mixed fruit jam, cottage cheese, cream cheese","Robot, please retrieve a potato from the refrigerator and utilize the vegetable peeler to remove its skin.",False,What item should I use to peel a potato?,"Porcelain cup
+Beer mug
+Ceramic mug
+Glass mug
+Plastic cup
+Paper cup
+Glass",A vegetable peeler.
+78,"a garlic press, chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a glass milk bottle, an oat milk bottle, eggs, mayonnaise, mustard, ketchup","Kitchen Robot, please take an egg from the fridge and place it in the bottle without breaking it.",True,Which type of cup should I use to place the egg in?,"Vegetable peeler
+Potato masher",Use the glass milk bottle.
+79,"a garlic press, chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a porcelain cup, a beer mug, a ceramic mug, a glass mug, a plastic cup, a paper cup, a glass, a glass milk bottle, an oat milk bottle, eggs, mayonnaise, mustard, ketchup","Robot, please retrieve an egg from the refrigerator and carefully place it inside the glass milk container without causing any damage to the egg.",False,Which type of cup should I use to place the egg in?,"Vegetable peeler
+Potato masher",Use the glass milk bottle.
+80,"a clean sponge, a dirty sponge, a dish soap, a knife block, a coffee machine, a glass milk bottle, an oat milk bottle, black tea bags, green tea bags, a dark chocolate tablet, a milk chocolate tablet, an almond milk chocolate tablet, eggs","Kitchen Robot, please wipe down the kitchen table.",True,Which sponge should I use to wipe down the kitchen table?,"Porcelain cup
+Glass mug
+Ceramic mug
+Glass",Use the clean sponge.
+81,"a clean sponge, a dirty sponge, a dish soap, a knife block, a coffee machine, a glass milk bottle, an oat milk bottle, black tea bags, green tea bags, a dark chocolate tablet, a milk chocolate tablet, an almond milk chocolate tablet, eggs","Robot, could you grab a fresh sponge and clean the kitchen table for me?",False,Which sponge should I use to wipe down the kitchen table?,"Porcelain cup
+Glass mug
+Ceramic mug
+Glass",Use the clean sponge.
+82,"a plastic food storage container, a glass food storage container, oven mitts, canned olives, a vanilla yogurt cup, a strawberry yogurt cup, an energy bar","Kitchen Robot, please take out a food storage container.",True,Which specific item should the robot take out from the fridge?,"Use the clean sponge
+Use the dirty sponge",The glass food storage container.
+83,"a plastic food storage container, a glass food storage container, oven mitts, canned olives, a vanilla yogurt cup, a strawberry yogurt cup, an energy bar","Robot, please retrieve a glass food storage container from the refrigerator.",False,Which specific item should the robot take out from the fridge?,"Use the clean sponge
+Use the dirty sponge",The glass food storage container.
+84,"a plastic food storage container, a glass food storage container, a ladle, jalapeno chips, rice chips, potato chips, canned olives, an apple, a peach, muesli, cornflakes, a greek yogurt cup, a strawberry yogurt cup, a vanilla yogurt cup","Kitchen Robot, please take the apple and the peach from the kitchen table, rinse them under the sink, and place them in a container.",True,Which container should I place the rinsed apple and peach in?,"Plastic food storage container
+Glass food storage container",Place them in the plastic food storage container.
+85,"a plastic food storage container, a glass food storage container, a ladle, jalapeno chips, rice chips, potato chips, canned olives, an apple, a peach, muesli, cornflakes, a greek yogurt cup, a strawberry yogurt cup, a vanilla yogurt cup","Robot, please grab the apple and peach from the table, wash them in the sink, and store them in the plastic container.",False,Which container should I place the rinsed apple and peach in?,"Plastic food storage container
+Glass food storage container",Place them in the plastic food storage container.
+86,"a toaster, a ladle, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, an energy bar, a cabbage, a bell pepper, a black pepper, an onion, a garlic","Kitchen Robot, please take the vegetables from the fridge.",True,Which specific vegetables should I take from the fridge?,"Plastic food storage container
+Glass food storage container","The cabbage, bell pepper, onion, and garlic."
+87,"a toaster, a ladle, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, an energy bar, a cabbage, a bell pepper, a black pepper, an onion, a garlic","Robot, please retrieve the cabbage, bell pepper, onion, and garlic from the refrigerator.",False,Which specific vegetables should I take from the fridge?,"Plastic food storage container
+Glass food storage container","The cabbage, bell pepper, onion, and garlic."
+88,"a kitchen towel, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a dish rack, honey, canned olives","Kitchen Robot, please take the canned olives from the pantry and drain them in the sink.",True,Should I drain just the liquid or both olives and liquid?,"cabbage
+bell pepper
+black pepper
+onion
+garlic","Just drain out the liquid, not both olives and liquid."
+89,"a kitchen towel, a plastic dinner plate, a plastic bread plate, a plastic salad plate, a ceramic dinner plate, a ceramic bread plate, a ceramic salad plate, a glass dinner plate, a glass bread plate, a glass salad plate, a dish rack, honey, canned olives","Robot, please retrieve the canned olives from the pantry and empty the liquid from the can using the sink.",False,Should I drain just the liquid or both olives and liquid?,"cabbage
+bell pepper
+black pepper
+onion
+garlic","Just drain out the liquid, not both olives and liquid."
+90,"a bread knife, a paring knife, a butter knife, a cutting board, a plastic food storage container, a glass food storage container, a carrot, a potato, eggs, an energy bar, a bottle of white wine, a bottle of red wine, a glass milk bottle, an oat milk bottle","Kitchen Robot, please take the carrot and potato from the fridge and use the knife to slice them into thin rounds.",True,Which type of knife should be used to slice the carrot and potato?,"Drain just the liquid
+Drain both olives and liquid",The bread knife.
+91,"a bread knife, a paring knife, a butter knife, a cutting board, a plastic food storage container, a glass food storage container, a carrot, a potato, eggs, an energy bar, a bottle of white wine, a bottle of red wine, a glass milk bottle, an oat milk bottle","Hey kitchen bot, grab the carrot and potato from the fridge and slice them into thin rounds using the bread knife.",False,Which type of knife should be used to slice the carrot and potato?,"Drain just the liquid
+Drain both olives and liquid",The bread knife.
+92,"oven mitts, a soup pot, a stockpot, a carrot, a tomato, a potato, a cabbage, a garlic, a bell pepper, an almond milk chocolate tablet, a dark chocolate tablet, eggs","Kitchen Robot, please take the ingredients from the kitchen and wash them thoroughly in the sink. Once they are washed, chop them into small pieces using the knife block. After chopping, put all the vegetables into the soup pot, add water until the vegetables are covered, and place the pot on the oven to cook on medium heat.",True,Which specific ingredients should I take from the kitchen?,"Bread knife
+Paring knife
+Butter knife","Take the carrot, tomato, potato, cabbage, garlic,and bell pepper."
+93,"oven mitts, a soup pot, a stockpot, a carrot, a tomato, a potato, a cabbage, a garlic, a bell pepper, an almond milk chocolate tablet, a dark chocolate tablet, eggs","Dear kitchen assistant, please gather the carrot, tomato, potato, cabbage, garlic, and bell pepper from the kitchen and wash them thoroughly in the sink. Once cleaned, chop the vegetables into small pieces using the knife block. After chopping, place all the veggies into the soup pot, cover them with water, and cook on medium heat on the oven. Thank you!",False,Which specific ingredients should I take from the kitchen?,"Bread knife
+Paring knife
+Butter knife","Take the carrot, tomato, potato, cabbage, garlic,and bell pepper."
+94,"a clean sponge, a dirty sponge, a dish soap, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a coffee machine, honey, a cucumber, a potato, a glass milk bottle, an oat milk bottle, grapes, a banana, an orange, an apple, a lemon, an avocado, a peach, an orange soda, bottled iced tea","Kitchen Robot, please take some vegetables and fruits from the fridge.",True,Which items should you take from the fridge?,"Carrot, tomato, potato, cabbage, garlic, bell pepper
+Almond milk chocolate tablet, dark chocolate tablet
+Eggs","The cucumber, potato, and avocado."
+95,"a clean sponge, a dirty sponge, a dish soap, a stainless steel tablespoon, a wooden tablespoon, a silver teaspoon, a coffee machine, honey, a cucumber, a potato, a glass milk bottle, an oat milk bottle, grapes, a banana, an orange, an apple, a lemon, an avocado, a peach, an orange soda, bottled iced tea","Robot, please retrieve the cucumber, potato, and avocado from the refrigerator.",False,Which items should you take from the fridge?,"Carrot, tomato, potato, cabbage, garlic, bell pepper
+Almond milk chocolate tablet, dark chocolate tablet
+Eggs","The cucumber, potato, and avocado."
+96,"chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a bottle opener, eggs, muesli, cornflakes","Kitchen Robot, please take the eggs from the fridge and crack two of them into a bowl. Then, use the utensil to beat the eggs until the yolks and whites are fully combined.",True,Which utensil should be used to beat the eggs until fully combined?,"cucumber, grapes
+potato, banana
+orange, apple
+lemon, avocado
+peach",The stainless steel dinner fork.
+97,"chopsticks, a stainless steel dinner fork, a stainless steel salad fork, a stainless steel dinner knife, a bottle opener, eggs, muesli, cornflakes","Robot, please retrieve the eggs from the refrigerator and crack two of them into a bowl. Subsequently, utilize the dinner fork to whisk the eggs until they are thoroughly mixed.",False,Which utensil should be used to beat the eggs until fully combined?,"cucumber, grapes
+potato, banana
+orange, apple
+lemon, avocado
+peach",The stainless steel dinner fork.
+98,"a corkscrew, a vegetable peeler, a potato masher, mustard, tomato paste, eggs, granulated sugar, sea salt, table salt, a stockpot","Kitchen Robot, please take the eggs from the fridge and place them in a pot of cold water. Then, use bring the water to a boil, and let the eggs cook for 10 minutes.",True,Where should I place the pot of cold water with the eggs?,"Stainless steel dinner fork
+Stainless steel salad fork
+Stainless steel dinner knife",Place it on the stove.
+99,"a corkscrew, a vegetable peeler, a potato masher, mustard, tomato paste, eggs, granulated sugar, sea salt, table salt, a stockpot","Dear Kitchen Assistant, please retrieve the eggs from the refrigerator and place them in a pot filled with cold water. Proceed to heat the pot on the stove until the water reaches a boiling point, then allow the eggs to cook for 10 minutes. Thank you for your assistance in preparing our boiled eggs.",False,Where should I place the pot of cold water with the eggs?,"Stainless steel dinner fork
+Stainless steel salad fork
+Stainless steel dinner knife",Place it on the stove.
